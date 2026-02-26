@@ -153,5 +153,5 @@ Optional analytical dashboard (if uploaded):
 ## Repository Structure
 
 - `/data` – Source dataset  
-- `/images` – Key visualisations  
-- `/reports` – Presentation and dashboard files  
+- `/Images` – Key visualisations  
+- `/Reports` – Presentation and dashboard files  
